@@ -1,1 +1,31 @@
-
+body{
+   background: pink;
+   strong{
+     color:blue;
+   }
+   h1{
+  color: purple;
+  text-align: center;
+     span{
+       border: 1px solid blue;
+       padding: 10px;
+     }
+}
+   p{
+     text-align: center;
+   }
+   img{
+     display: block;
+     width: 100%;
+     height: auto;
+     max-width: 600px;
+     margin-lef: auto;
+     margin-right: auto;
+   }
+}
+footer {
+ text-align:center;
+  strong{
+   color: blue;
+  }
+}
